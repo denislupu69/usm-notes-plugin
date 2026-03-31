@@ -20,8 +20,8 @@ wp-content/plugins/
 
 ## 📸 Exemple
 
-![Exemplu 1](1.jpg)
-![Exemplu 2](2.jpg)
+![Exemplu 1](image1.jpg)
+![Exemplu 2](image2.jpg)
 
 ---
 
